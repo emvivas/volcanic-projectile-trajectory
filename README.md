@@ -1,2 +1,2 @@
 # volcanic-projectile-trajectory
-Trajectory of a projectile during a volcanic eruption.
+<b>Trajectory of a projectile during a volcanic eruption.</b>
